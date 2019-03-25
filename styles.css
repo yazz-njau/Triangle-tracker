@@ -1,0 +1,12 @@
+body {
+  background-image
+  shape-outside: circle();
+  opacity:0.9;
+  background-repeat:no-repeat;
+}
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
